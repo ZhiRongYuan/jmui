@@ -1,6 +1,8 @@
 Mobile UI React Components
 ==========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/choujimmy/jmui.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/choujimmy/jmui.svg?branch=master)](https://travis-ci.org/choujimmy/jmui?branch=master)
 [![dependencies](https://david-dm.org/choujimmy/jmui.svg)](https://david-dm.org/choujimmy/jmui)
 [![devDependency Status](https://david-dm.org/choujimmy/jmui/dev-status.svg)](https://david-dm.org/choujimmy/jmui#info=devDependencies)
